@@ -1,2 +1,2 @@
-# cs-302
-homework of matlab codes for cs302
+#cs302
+assignment of matlab codes for cs302
